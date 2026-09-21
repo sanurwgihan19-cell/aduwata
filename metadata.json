@@ -1,0 +1,6 @@
+{
+  "name": "Aduwata.lk - Sri Lanka Property & Real Estate",
+  "description": "Sri Lanka's affordable real estate search portal for lands, houses, apartments, and commercial properties across all 9 provinces and 25 districts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
